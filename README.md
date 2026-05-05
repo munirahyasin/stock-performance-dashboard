@@ -25,5 +25,6 @@ Tesla shows higher average returns compared to Apple
 Tesla also exhibits higher volatility, indicating greater risk
 Apple demonstrates more stable and consistent performance
 
-
+DASHBOARD PREVIEW
+![dashboard](https://github.com/user-attachments/assets/806f1e77-9443-4dd9-a46c-c13147c78e96)
 
