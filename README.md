@@ -28,4 +28,6 @@ Apple demonstrates more stable and consistent performance
 #DASHBOARD PREVIEW
 ![Image](https://github.com/user-attachments/assets/bdeffb2f-8c2c-4aba-bbdb-82a9e07d37e6)
 
+<img width="1142" height="644" alt="image" src="https://github.com/user-attachments/assets/e3a85c3e-c12c-431f-9aa7-dcfe4b766d43" />
+
 
