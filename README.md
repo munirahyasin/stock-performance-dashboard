@@ -29,4 +29,7 @@ DASHBOARD PREVIEW
 
 <img width="1142" height="644" alt="image" src="https://github.com/user-attachments/assets/e3a85c3e-c12c-431f-9aa7-dcfe4b766d43" />
 
-
+What I Learned
+1.Time-series analysis using financial data
+2.Difference between price and returns
+3.Data visualization best practices in Power BI
